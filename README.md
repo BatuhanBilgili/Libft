@@ -11,7 +11,7 @@ Where all of your functions will be written in.
 Your header file is useful for 2 things:
 - First, instead of doing for example `#include <unistd.h>` in all of your .c files, you just write it once in your header and all of your .c files will read it from your header file. 
 - Secondly, let's say one of your .c files uses another function from another .c file, well instead of writting that function above, just write `#include "libft.h"` and it will find it in your header file. 
--Thirdly, you can see why and how to use ifndef here.
+- Thirdly, you can see why and how to use ifndef here.
 https://www.tutorialspoint.com/cprogramming/c_header_files.htm
 
 Make sure you add `#include "libft.h"` in all of your .c files.

@@ -87,3 +87,6 @@ Makefile is where you will create a file to compile your projects. Remember how 
 # Link To Libft Tester
 I suggest you to test the functions before posting and in this link it says how to do it:
 https://github.com/Tripouille/libftTester
+
+## Success Rate
+<img width="558" alt="Ekran Resmi 2022-10-24 20 41 11" src="https://user-images.githubusercontent.com/91786686/197591393-b196e4cb-70bb-423d-ba88-0cd683297263.png">

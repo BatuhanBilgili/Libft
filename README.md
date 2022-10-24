@@ -1,4 +1,4 @@
-# Libft 
+# Libft 42-Curses
 
 Libft (Library of Functions)
 

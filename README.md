@@ -84,7 +84,7 @@ Makefile is where you will create a file to compile your projects. Remember how 
 
 ``gcc (fonction name) libft.a`` you can compile the function like this.``libft.a`` fetches other necessary functions of the function you are running.
 
-# Link To Libft Tester
+## Link To Libft Tester
 I suggest you to test the functions before posting and in this link it says how to do it:
 https://github.com/Tripouille/libftTester
 
